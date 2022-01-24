@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -13,7 +12,6 @@
             <p>i am studing computer science engineering(CSE) <br> <a href="https://www.vaagdevi.edu.in/">in vaagdevi college of engineering</a><p><a href="https://www.instagram.com/karthik_.5268/">My instaid</a></p></p></td>
       </tr>
     </table>
-    <hr size="5"noshade>
     <h3>My studies</h3>
     <table size="6">
       <th>Years</th>
