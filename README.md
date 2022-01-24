@@ -6,7 +6,7 @@
   <body>
     <table>
       <tr>
-        <td><img src="KARTHIKK.jpg"alt=""></td>
+        <td><img src="KARTHIKK.jpg" alt=""></td>
         <td><h1>Bandi karthik</h1>
             <p><em>my self Bandi Karthik</em></p>
             <p>i am studing computer science engineering(CSE) <br> <a href="https://www.vaagdevi.edu.in/">in vaagdevi college of engineering</a><p><a href="https://www.instagram.com/karthik_.5268/">My instaid</a></p></p></td>
